@@ -38,7 +38,7 @@ with open(csv_origen) as csvfile:
 		func["funcionario"] = {}
 		func["funcionario"]["nombre"] = row["Nombre"]
 		func["funcionario"]["apellido"] = row["Apellido"]
-		func["funcionario"]["nombrepublico"] = row["Nombre"]
+		func["funcionario"]["nombrepublico"] = '{} {}'.format(row["Nombre"], row["Apellido"])
 		func["funcionario"]["franjaetaria"] = ""
 		func["funcionario"]["genero"] = row["genero"]
 		func["funcionario"]["edad"] = 0
@@ -49,7 +49,7 @@ with open(csv_origen) as csvfile:
 		func["cargo"]["id"] = row["id"]
 		func["cargo"]["categoria"] = {}
 		func["cargo"]["categoria"]["id"] = row["id"]  # no usamos
-		func["cargo"]["categoria"]["nombre"] = row["Categoria"]  # no usamos
+		func["cargo"]["categoria"]["nombre"] = row["Cargo"]  # no usamos
 		func["cargo"]["categoria"]["requiere_declaracion_jurada"] = True  # no usamos
 		func["cargo"]["categoria"]["nombre_corto"] = row["Cargo"]  # no usamos
 		func["cargo"]["categoria"]["orden"] = 10

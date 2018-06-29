@@ -19,7 +19,7 @@ function createPerson(person, children, level) {
     var rank = person.cargo.categoria.nombre;
     var photo = person.funcionario.foto.thumbnail;
     if (photo === undefined || photo == null) {
-        photo = "images/default_profile.jpg";
+        photo = "images/default_profile.png";
     }
     var gender = person.funcionario.genero;
     if (gender == null || gender === undefined) {

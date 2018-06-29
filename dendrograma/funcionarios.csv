@@ -1,0 +1,67 @@
+id,Cargo,Nombre,Telefono,Domicilio,depende_de,genero
+1,Ministro de la Producción,"Contigiani, Luis Gustavo",,,0,M
+2,"Secretario de Agricultura, Ganadería y Recursos Naturales","Bargellini, Marcelo",,,1,M
+3,"Secretario de Turismo, Comercio y Servicios","Bulos, Martín José Isaías",,,1,M
+4,Secretario de Desarrollo Territorial y Economía Social,"Casella, Mauro",,,1,M
+5,Secretario de Comercio Interior y Servicios,"Diab, Juan Pablo",,,1,M
+6,Secretario de Lechería,"Morini, Pedro Juan",,,1,M
+7,"Secretario de Industria, Agregado de Valor e Innovación","Pietropaolo, Emiliano",,,1,M
+8,Secretario Privado del Ministro de la Producción,"Bonetto, Martín",,,1,M
+9,Subsecretario de Comercio Exterior,"Braga, Carlos",,,2,M
+10,Subsecretario de Cultivos Industriales,"Braidot, José Luis",,,3,M
+11,Subsecretario de Economía Social y Solidaria,"Cecchi, Alfredo Luis",,,4,M
+12,Subsecretaria de Planificaciones y Relaciones Institucionales,"Filippini, Gabriela",,,5,F
+13,Subsecretario de Agricultura,"Fournell, Diego Darío",,,6,M
+14,Subsecretario de Financiamiento e Inversiones,"Gonzalez Gasparotti, Rodolfo Martín",,,7,M
+15,Desconocido,"Sbodio, Adrián Fabio José",,,7,M
+16,Directora Provincial de Planificación y Relaciones Institucionales,"Alberdi, Cecilia",,,9,M
+17,Director Provincial de Turismo Área Norte,"Arone, Franco",,,9,F
+18,Director Provincial de Coordinación y Gestión,"Buchara, Sergio Pedro",,,10,M
+19,Directora Provincial de Comunicación Social,"Caldo, Aurora Del Pilar",,,10,M
+20,Dirección Provincial de Coordinación Territorial – Des. Territorial,"Crettaz, Elizabet",,,11,M
+21,Director Ente Zona Franca Santafesina,"Cucchiari, Horacio Rubén",,,11,M
+22,Director Provincial de Fomento y Promoción del Comercio y Servicios,"Ferrero, José Ángel",,,12,F
+23,Directora Provincial de Planificación,"Fortonani, Lorena Soledad",,,12,M
+24,Director Provincial de Promoción de Exportaciones,"Galaverna, Daniel Agustín",,,13,M
+25,Dirección Provincial de Lechería,"Gatti, Miguel José",,,13,M
+26,Director Provincial de Defensa del Consumidor,"Gianzone, Leonardo David",,,14,M
+27,Director Provincial de Promoción y Capacitación Industrial,"Kreni, Walter Omar",,,14,F
+28,Director Provincial de Desarrollo Territorial,"Marengo, Alejandro",,,15,M
+29,Directora Provincial de de la Agencia Santafesina de Inversiones y Comercio Internacional,"Marini, Débora",,,15,M
+30,Director Provincial de Centro Operativo Experimental Dr. Tito Livio Coppa,"Perren, José María",,,20,M
+31,Vocal Directorio de la Agencia - Asimilable a Director Pcial.,"Piazzardi, Bernardo Carlos",,,20,M
+32,Directora Provincial de Ordenamiento Territorial y Emergencia Agropecuaria,"Quinteros, Norma Beatríz",,,20,F
+33,Directora Provincial de Coordinación Administrativa,"Rivolta, Daniela Mara",,,21,M
+34,Directora Provincial de Turismo Área Sur,"Rosenthal, Claudia",,,21,M
+35,Director Provincial de Promoción del Asociativismo y el Emprendedurismo,"Serafino, Eugenio Dalcio",,,21,M
+36,Asistente Técnica Nivel II – Desarrollo Territorial y Economía Social,"Bianchi, Melina",,,23,M
+37,Asistente Técnica Nivel II – Agricultura,"Camissi, Norberto",,,23,F
+38,Asistente Técnica Nivel II – Administración y Coordinación Técnica y Legal,"Carena, Natalia Beatriz",,,24,M
+39,Asistente Técnica Nivel II- Agricultura,"Drovetta, Juan Pío Tomás",,,25,M
+40,Asistente Técnica Nivel IV - Administración y Coordinación Técnica y Legal,Druetto Ojeda,,,25,M
+41,Asistente Técnica Nivel I –Desarrollo Territorial,Flores Victor Hugo,,,25,M
+42,Asistente Técnica Nivel III – Privada del Ministro,"Gazzaniga, Franco",,,25,F
+43,Asistente Técnica Nivel II – Comercio Exterior,"Giorgetti, Jorge Luis",,,25,M
+44,Asistente Técnica Nivel III –Agricultura,Lombardi Carla Liz,,,25,M
+45,Asistente Técnico Nivel III – Planificación,"López, Marcela Viviana",,,25,M
+46,Asistente Técnica Nivel IV – Comercio Exterior,"López, Ovidio Mario",,,26,M
+47,Asistente Técnica Nivel II – Desarrollo Territorial y Economía Social,Monteverde Marcos,,,27,F
+48,Asistente Técnica Nivel IV – Desarrollo Territorial y Economía Social,"Mouriño, Rubén",,,28,M
+49,Asistente Técnica Nivel I –Inversiones,Neyret Ana Lucía,,,29,M
+50,Asistente Técnico Nivel III – Desarrollo Territorial,"Pecorelli, María Antonella",,,29,M
+51,Asistente Técnica Nivel II – Turismo,"Romero Barolín, Facundo",,,30,M
+52,Asistente Técnica Nivel IV – Agricultura,"Salim Scarafia, Juan Carlos",,,31,F
+53,Asistente Técnica Nivel II – Turismo,"Suasnabar, María Laura",,,31,M
+54,Asistente Técnico Nivel I – Santa Fe Global (Agencia),"Appiani, Fabricio Lisandro",,,31,M
+55,Asistente Técnico Nivel I – Industrias,"Ayala, Nicolás Federico",,,31,M
+56,Asistente Técnico Nivel I – Planificación y Rel. Inst.,"Baracat, Ayelén Tania",,,32,M
+57,Asistente Técnico Nivel I – Desarrollo Territorial y Economía Social,"Barchetta, Omar",,,32,F
+58,Asistente Técnico Nivel I – Agricultura,"Bugnon, Marcial",,,32,M
+59,Asistente Técnica Nivel I – Santa Fe Global (Agencia),"Collados, María Florencia",,,32,M
+60,Asistente Técnico Nivel I – Santa Fe Global (Agencia),"Fortunato, Juan Manuel",,,33,M
+61,Asistente Técnico I – Administración y Coordinación Técnica y Legal,"Liendo, Mónica Gloria",,,33,M
+62,Asistente Técnico Nivel I – Inversiones,"Martínez, Adriana Mónica",,,33,F
+63,Asistente Técnico Nivel I – Administración y Coordinación Técnica y Legal,"Pallotti, Mariela Inés",,,33,M
+64,Asistente Técnico Nivel I – Planificación,"Primo, Florencia",,,33,M
+65,Asistente Técnico Nivel I – Santa Fe Global (Agencia),"Ross, Mailen Eliana",,,33,M
+66,Asistente Técnico I – Agricultura,"Zampar, Omar Antonio",,,33,M
